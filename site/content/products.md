@@ -1,11 +1,11 @@
 ---
-title: Welcome to Glamuo-Engineering Enterprise
+title: Welcome to Glamuo-Engineering Enterprisewe q
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: Doing Business with Glamuo Engineering Enterprise
 description: >-
-      Insulation of steamlines, condenser tanks, air ducts, chilled pipes, chilled tanks & boilers.
+      Insulation of steamlines, condenser tanks, air ducts, chilled pipes,steam stop valves,chilled tanks & boilers.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
